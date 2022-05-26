@@ -1,6 +1,5 @@
 #!/bin/sh
 
-
 ufw allow 22
 # ufw allow 'Nginx Full'
 
