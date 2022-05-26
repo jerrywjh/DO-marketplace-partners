@@ -1,6 +1,6 @@
 #!/bin/sh
 
-ufw allow 22
+ufw allow ssh
 # ufw allow 'Nginx Full'
 
 ufw allow 80
